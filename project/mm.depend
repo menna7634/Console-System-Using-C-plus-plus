@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1656168876 source:c:\users\elnour tech\desktop\mm\main.cpp
+	<iostream>
+
+1692219724 source:c:\users\elnour tech\onedrive\desktop\mm\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
